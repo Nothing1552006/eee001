@@ -1,0 +1,2 @@
+cd eee001
+git add eee2.txt
